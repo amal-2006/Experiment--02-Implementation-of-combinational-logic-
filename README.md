@@ -1,6 +1,6 @@
-# Name: AMALJOSH MAADHAV J
+### Name: AMALJOSH MAADHAV J
 
-# Roll No: 23014023
+### Roll No: 23014023
 
 # Experiment 02: Implementation of combinational logic gates
 
